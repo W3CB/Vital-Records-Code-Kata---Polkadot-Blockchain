@@ -38,13 +38,13 @@ The system consists of several key components:
 
 ## Key Features
 
-- 🔒 **Marriage License Management**: Request, approve, and track marriage licenses
-- 📄 **Birth Certificate Issuance**: Register births with parental information
-- 📋 **Death Certificate Processing**: Record deaths with proper verification
-- 🪪 **Driver's License System**: Issue, renew, and revoke licenses with classes and endorsements
-- 🗳️ **Voter Registration**: Register voters with district management and eligibility verification
-- 🛡️ **Privacy Protections**: Zero-knowledge proofs for age verification without revealing birthdate
-- 🚨 **Emergency Simulations**: Test system under disaster scenarios
+- **Marriage License Management**: Request, approve, and track marriage licenses
+- **Birth Certificate Issuance**: Register births with parental information
+- **Death Certificate Processing**: Record deaths with proper verification
+- **Driver's License System**: Issue, renew, and revoke licenses with classes and endorsements
+- **Voter Registration**: Register voters with district management and eligibility verification
+- **Privacy Protections**: Zero-knowledge proofs for age verification without revealing birthdate
+- **Emergency Simulations**: Test system under disaster scenarios
 
 ## Implementation Progress
 
